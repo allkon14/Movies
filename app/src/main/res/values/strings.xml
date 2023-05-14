@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="title1">Spiderman: No Way\nHome</string>
+    <string name="score1">9.1/10.0 IMDd</string>
+
+    <string name="title2">Eternals</string>
+    <string name="score2">9.5/10.0 IMDd</string>
+
+
+</resources>
